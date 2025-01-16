@@ -53,3 +53,6 @@
 - **이메일**: [simsim051128@gmail.com](mailto:simsim051128@gmail.com)
 - **LinkedIn**: Coming Soon
 - **Website**: Coming Soon
+
+- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JangInChan&theme=radical)
+
