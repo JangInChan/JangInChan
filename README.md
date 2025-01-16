@@ -19,9 +19,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ## 📈 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/JangInChan)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JangInChan&show_icons=true&theme=radical)](https://github.com/JangInChan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/JangInChan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangInChan&layout=compact&theme=radical)](https://github.com/JangInChan)
 
 ## 📫 Contact Me
 - Email: **simsim051128@gmail.com**
