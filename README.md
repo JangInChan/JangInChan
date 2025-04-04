@@ -70,15 +70,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JangInChan&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangInChan&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - ✉️ Email: [simsim051128@gmail.com](mailto:simsim051128@gmail.com)
@@ -87,7 +78,12 @@
 
 ---
 
-## 🐍 Commit Activity Snake
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JangInChan&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangInChan&layout=compact&theme=radical" width="48%"/>
+</p>
 
 ![snake gif](https://github.com/JangInChan/JangInChan/blob/output/github-contribution-grid-snake.svg)
 
