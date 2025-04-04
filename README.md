@@ -92,11 +92,11 @@
 ![snake gif](https://github.com/JangInChan/JangInChan/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-    <a href="https://github.com/devxb/gitanimals">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JangInChan&utm_content=farm">
       <img
-        src="https://render.gitanimals.org/lines/jxxn92?pet-id=620991609996030065"
+        src="https://render.gitanimals.org/farms/JangInChan"
         width="600"
-        height="120"
+        height="300"
       />
     </a>
 </p>
@@ -107,9 +107,3 @@
   # 깜짝선물
 
 </details> -->
-
----
-
-## 👀 Visitors
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangInChan&count_bg=%237C3FCB&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
