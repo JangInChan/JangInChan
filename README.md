@@ -27,6 +27,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -40,6 +41,7 @@
 ### 🟢 DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078D7?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
@@ -56,6 +58,15 @@
 - 📦 Expo 기반 배포 및 실시간 테스트 환경 구축
 - ♿ 시각/청각 장애인을 위한 커뮤니케이션 보조 기능
 - 🎨 UX 최적화 및 디자인 시스템 적용
+
+### 🌐 [DevOssian 공식 블로그](https://devossian.chosun.ac.kr/)
+
+> 동아리 통합 기술 블로그 / 위키 / 도큐먼트 플랫폼 구축
+
+- 🧩 Next.js + TypeScript + TailwindCSS 기반 UI 개발
+- 🐳 Docker, Nginx, SSL 인증서로 서버 구성
+- 📚 WordPress, Wiki.js, Docusaurus로 콘텐츠 시스템 통합
+- 🛠️ 운영 및 CI/CD 자동화, 접근성 및 반응형 개선
 
 ---
 
