@@ -100,10 +100,3 @@
       />
     </a>
 </p>
-
-<!-- <details>
-  <summary> 🎁 </summary>
-
-  # 깜짝선물
-
-</details> -->
