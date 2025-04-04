@@ -59,7 +59,7 @@
 - ♿ 시각/청각 장애인을 위한 커뮤니케이션 보조 기능
 - 🎨 UX 최적화 및 디자인 시스템 적용
 
-### 🌐 [DevOssian 공식 블로그](https://devossian.chosun.ac.kr/)
+### 🌐 [Devossian 공식 블로그](https://devossian.chosun.ac.kr/)
 
 > 동아리 통합 기술 블로그 / 위키 / 도큐먼트 플랫폼 구축
 
