@@ -91,6 +91,23 @@
 
 ![snake gif](https://github.com/JangInChan/JangInChan/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+    <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/lines/jxxn92?pet-id=620991609996030065"
+        width="600"
+        height="120"
+      />
+    </a>
+</p>
+
+<!-- <details>
+  <summary> 🎁 </summary>
+
+  # 깜짝선물
+
+</details> -->
+
 ---
 
 ## 👀 Visitors
